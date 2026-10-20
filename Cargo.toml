@@ -1,0 +1,28 @@
+[package]
+name = "ghillieclip"
+version = "0.1.0"
+edition = "2024"
+description = "Find airsoft shots in gun-cam footage, track the BB and build a highlight reel"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/bcluap/ghillieclip"
+homepage = "https://github.com/bcluap/ghillieclip"
+keywords = ["airsoft", "video", "ffmpeg", "highlights"]
+categories = ["multimedia::video"]
+
+[dependencies]
+ab_glyph = "0.2"
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+eframe = "0.37.0"
+rfd = "0.17.2"
+rustfft = "6"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[target.'cfg(windows)'.build-dependencies]
+winresource = "0.1"
+
+[profile.release]
+strip = true
+lto = "thin"

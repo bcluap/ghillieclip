@@ -1,0 +1,54 @@
+{
+  "id": "late-reveal-window-head-hit",
+  "video": "late-reveal-window-head-hit.mp4",
+  "source": "untitled.mp4",
+  "notes": "Shot at a player in a window. The BB is hidden behind the bush and rail at first and only becomes visible about 0.55 s (below the window), then rises to the player's head, where it hits at 1.233 s (last visible 1.217 s). Recoil moves the picture ~95 px. Original failures: 'Invalid data found' error when no shots survived, and the BB was never found because it appears late and away from the launch point. Times by Claude from zoomed frames, 17/10/2026; user confirmed adding the case. The 3.112 s sound is 0.3 s before the end of the clip and has no visible BB.",
+  "added": "17/10/2026",
+  "sensitivity": null,
+  "profile": null,
+  "only_listed_shots": true,
+  "shots": [
+    {
+      "time": 0.206,
+      "bb_visible_until": 1.217,
+      "impact_time": 1.233,
+      "occlusions": [
+        [
+          0.206,
+          0.55
+        ]
+      ],
+      "checkpoints": [
+        {
+          "time": 0.7,
+          "x": 1160.6,
+          "y": 857.7,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 0.833,
+          "x": 1137.2,
+          "y": 752.5,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 1.0,
+          "x": 1145.4,
+          "y": 672.9,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 1.167,
+          "x": 1156.0,
+          "y": 649.1,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        }
+      ],
+      "bb_not_visible": false
+    }
+  ]
+}

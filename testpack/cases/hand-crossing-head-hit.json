@@ -1,0 +1,61 @@
+{
+  "id": "hand-crossing-head-hit",
+  "video": "hand-crossing-head-hit.mp4",
+  "source": "untitled.mp4",
+  "notes": "Single shot at a player behind a wall. BB visible to the eye all the way to 3.633 s where it hits the player's head. It crosses the player's light glove at 2.867 s and is obvious again from 2.967 s. Original failure: tracker lost the BB at the hand (locked onto the glove), even at sensitivity 0.75. Reviewer: only one shot in this clip.",
+  "added": "17/10/2026",
+  "sensitivity": null,
+  "profile": null,
+  "only_listed_shots": true,
+  "shots": [
+    {
+      "time": 2.528,
+      "bb_visible_until": 3.633,
+      "impact_time": 3.633,
+      "occlusions": [
+        [
+          2.867,
+          2.967
+        ]
+      ],
+      "checkpoints": [
+        {
+          "time": 3.033,
+          "x": 1312.5,
+          "y": 568.0,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 3.167,
+          "x": 1332.0,
+          "y": 563.0,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 3.333,
+          "x": 1356.5,
+          "y": 549.0,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 3.5,
+          "x": 1367.3,
+          "y": 557.1,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        },
+        {
+          "time": 3.583,
+          "x": 1370.4,
+          "y": 563.9,
+          "tol_px": 10.0,
+          "source": "Claude, by eye on zoomed frames (white dot inside track box), 17/10/2026"
+        }
+      ],
+      "bb_not_visible": false
+    }
+  ]
+}

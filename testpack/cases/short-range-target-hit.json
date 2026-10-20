@@ -1,0 +1,20 @@
+{
+  "id": "short-range-target-hit",
+  "video": "short-range-target-hit.mp4",
+  "source": "SC024K_0000.MP4 (73.400-75.900s)",
+  "notes": "Garden range, yellow catch net with a brown hanging target ~30 m away. User: 'the shot at 5.338 in shots_highlight.mp4' = source 74.28 s, where the BB of the 74.000 s shot hits the brown target (it swings 74.40-74.47 s). The BB is only visible for ~0.15 s (74.17-74.30 s) before the hit, so the shot was wrongly rejected by the 0.2 s 'BB in flight' rule. 74.427 s is the bolt. Impact time is Claude's estimate from zoomed frames, 17/10/2026.",
+  "added": "17/10/2026",
+  "sensitivity": null,
+  "profile": null,
+  "only_listed_shots": true,
+  "shots": [
+    {
+      "time": 0.5999985,
+      "bb_visible_until": 0.9000015,
+      "impact_time": 0.9000015,
+      "occlusions": [],
+      "checkpoints": [],
+      "bb_not_visible": false
+    }
+  ]
+}

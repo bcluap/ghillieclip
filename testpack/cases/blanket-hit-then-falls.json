@@ -1,0 +1,20 @@
+{
+  "id": "blanket-hit-then-falls",
+  "video": "blanket-hit-then-falls.mp4",
+  "source": "SC024K_0001.MP4 (42.300-45.500s)",
+  "notes": "Shot into a hanging black blanket. The BB hits the blanket at ~44.14 s (dims and stops dead), then falls down the blanket to the ground. User: the program marked the impact on the ground instead of the blanket (highlight reel at 20.254 s). Impact time is Claude's estimate from zoomed frames (44.13-44.17 s), 17/10/2026.",
+  "added": "17/10/2026",
+  "sensitivity": null,
+  "profile": null,
+  "only_listed_shots": true,
+  "shots": [
+    {
+      "time": 1.0540009,
+      "bb_visible_until": 1.8400002,
+      "impact_time": 1.8400002,
+      "occlusions": [],
+      "checkpoints": [],
+      "bb_not_visible": false
+    }
+  ]
+}

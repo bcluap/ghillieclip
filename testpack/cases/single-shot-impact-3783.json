@@ -1,0 +1,20 @@
+{
+  "id": "single-shot-impact-3783",
+  "video": "single-shot-impact-3783.mp4",
+  "source": "untitled.mp4",
+  "notes": "User (17/10/2026): one shot in this clip, impacting at 3.783 s. Shot time 2.970 s is the detected start of the shot sound. Sounds at 0.136 s, 3.243 s (0.27 s after the shot, likely the bolt) and 5.213 s are not shots.",
+  "added": "17/10/2026",
+  "sensitivity": null,
+  "profile": null,
+  "only_listed_shots": true,
+  "shots": [
+    {
+      "time": 2.97,
+      "bb_visible_until": 3.783,
+      "impact_time": 3.783,
+      "occlusions": [],
+      "checkpoints": [],
+      "bb_not_visible": false
+    }
+  ]
+}

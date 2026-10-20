@@ -1,0 +1,20 @@
+{
+  "id": "blanket-hit-slow-bb",
+  "video": "blanket-hit-slow-bb.mp4",
+  "source": "SC024K_0001.MP4 (416.700-420.000s)",
+  "notes": "Second blanket example (user: 'the shot at 2:54' of the highlight reel = source 417.727 s). The BB arrives slowly (~1 px/frame), dims at the blanket at ~418.30-418.35 s, then the track used to wander. Impact time is Claude's estimate from zoomed frames, 17/10/2026.",
+  "added": "17/10/2026",
+  "sensitivity": null,
+  "profile": null,
+  "only_listed_shots": true,
+  "shots": [
+    {
+      "time": 1.0269775,
+      "bb_visible_until": 1.6329956,
+      "impact_time": 1.6329956,
+      "occlusions": [],
+      "checkpoints": [],
+      "bb_not_visible": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GhillieClip
+GenericName=Airsoft highlight reel builder
+Comment=Find airsoft shots in gun-cam footage, track the BB and build a highlight reel
+Exec=ghillieclip
+Icon=ghillieclip
+Terminal=false
+Categories=AudioVideo;Video;
